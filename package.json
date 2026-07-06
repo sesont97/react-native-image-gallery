@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-oh-tpl/react-native-image-gallery",
-  "version": "2.1.5-0.0.1",
+  "name": "@react-native-ohos/react-native-image-gallery",
+  "version": "2.1.6",
   "description": "Pure JavaScript image gallery component for iOS、harmony and Android",
   "main": "src/Gallery",
   "scripts": {
